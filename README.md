@@ -1,7 +1,5 @@
 # 👋 Hi there, I’m Vu Huu Sy!  
 
-<img src="https://github.com/vuhuusy/vuhuusy/blob/main/assets/banner.png" alt="Vu Huu Sy Banner" width="100%">
-
 🚀 I'm passionate about **Big Data** and exploring the possibilities of **AI** like NLP and Generative AI.  
 🌱 Currently diving deep into **Scala**, **Spark**, **Kafka**, **Hadoop**, and advancing my knowledge in cutting-edge AI technologies.  
 
