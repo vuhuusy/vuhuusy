@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vu Huu Sy
 - 👀 I’m interested in Big Data
-- 🌱 I’m currently learning Scala, Kafka, Spark,...
+- 🌱 I’m currently learning Scala, Spark, Kafka, Hadoop, ...
 - 📫 How to reach me:
   - [Email](vuhuusytft1@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/vu-huu-sy/)
