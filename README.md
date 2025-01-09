@@ -41,3 +41,5 @@
 
 📖 *"Learning is a journey, not a destination."* – That’s my motto!  
 Thank you for stopping by my profile! Feel free to connect or explore my projects!  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vuhuusy&show_icons=true&theme=radical)
