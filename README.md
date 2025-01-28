@@ -1,42 +1,59 @@
-# <img src="https://private-user-images.githubusercontent.com/74038190/240814242-2c79649a-b04c-4c78-998f-c126db48305c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY0Mzc3NjgsIm5iZiI6MTczNjQzNzQ2OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTQyNDItMmM3OTY0OWEtYjA0Yy00Yzc4LTk5OGYtYzEyNmRiNDgzMDVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA5VDE1NDQyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE3NWI2Yzg2YTM5NzY4NzAzOThkZWNhOWMwOTYwNTQ4MGYzYTgzMDU2N2RmOWY5MWFhYzI0N2JiNGQ0MTM3NWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.w1jLZzCTSDxnnHUxSMd0xbQzsMbulDLXUaSFyRbND_Q" alt="Starry Night" width="100"/>
-
-``
- 👋 Hi there, I’m Sy Vu!  
-
-🚀 I'm passionate about **Big Data** and exploring the possibilities of **AI** like NLP and Generative AI.  
-🌱 Currently diving deep into **Scala**, **Spark**, **Kafka**, **Hadoop**, and advancing my knowledge in cutting-edge AI technologies.  
-
----
 
 
----
+## Hi there! 👋, I’m Sy Vu!
+
+🚀 I'm a Big Data Engineer at Viettel Group, passionate about exploring the vast world of Big Data and the cutting-edge innovations of Generative AI. I graduated with a Very Good degree from Hanoi University of Science and Technology (HUST).
+
 
 ## 📌 About Me  
-- 💻 Experienced in data engineering, distributed systems, and large-scale data processing.  
-- 🧠 Exploring the intersection of Big Data and Artificial Intelligence (NLP, Generative AI).  
-- 🎓 Lifelong learner, always ready to embrace new challenges and technologies.  
+- 💻 Skilled in data engineering, distributed systems, and processing large-scale datasets.
+- 🧠 Enthusiastically exploring the synergy between Big Data and Artificial Intelligence (NLP, Generative AI).
+- 🎓 Lifelong learner, constantly embracing new challenges and cutting-edge technologies.
 
----
 
 ## 🔧 Skills  
 
-### Languages & Tools  
+### Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="75" height="75"/>
-  <img src="https://www.apache.org/logos/res/spark/spark_highres.png" alt="Apache Spark" width="180" height="75"/>
-  <img src="https://www.apache.org/logos/originals/kafka.svg" alt="Apache Kafka" width="180" height="75"/>
-  <img src="https://www.apache.org/logos/originals/airflow-1.svg" alt="Apache Airflow" width="180" height="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Apache Hive" width="180" height="75"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=scala,py" />
+  </a>
+</p>
+
+### Containerization
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  </a>
+</p>
+
+### Big Data Technologies
+
+<p align="left">
+  <img src="https://www.apache.org/logos/res/spark/spark_highres.png" alt="Apache Spark" width="200"/>
+  <img src="https://www.apache.org/logos/originals/kafka.svg" alt="Apache Kafka" width="200"/>
+  <img src="https://www.apache.org/logos/originals/airflow-1.svg" alt="Apache Airflow" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Apache Hive" width="200"/>
   <img src="https://www.apache.org/logos/originals/hadoop.svg" alt="Apache Hadoop" width="200"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="75" height="75"/>
-
-  
 </p>
 
----
+## 📫 How to reach me
+
+<p align="left">
+  <a href="mailto:syvh.de@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/vu-huu-sy/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+
+
 
 ## 📊 GitHub Stats  
 
