@@ -2,7 +2,7 @@
 
 ## Hi there! 👋, I’m Sy Vu!
 
-🚀 I'm a Big Data Engineer at Viettel Group, passionate about exploring the vast world of Big Data and the cutting-edge innovations of Generative AI. I graduated with a Very Good degree from Hanoi University of Science and Technology (HUST).
+🚀 I'm currently working as a Big Data Engineer at Viettel Group, passionate about exploring the vast world of Big Data and the cutting-edge innovations of Generative AI. I graduated with a Very Good degree from Hanoi University of Science and Technology (HUST).
 
 
 ## 📌 About Me  
