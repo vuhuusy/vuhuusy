@@ -74,6 +74,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" width="60"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="JupiterNotebook" width="60"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sbt.png" alt="sbt" width="60"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="60"/>
 </p>
 
 
@@ -98,14 +99,14 @@
 
 ## 🌟 Featured Projects  
 
+### 🔹 [Lakehouse Platform](#)  
+**Description**: Developed a Generative AI model for creating contextual text using NLP and transformer models.  
+**Tech Stack**: Python, Hugging Face, TensorFlow  
+**Demo/Repo**: [GitHub Repository](#)  
+
 ### 🔹 [Data Lake Platform](#)  
 **Description**: Built a real-time analytics platform leveraging Spark and Kafka to process millions of records per second.  
 **Tech Stack**: Hadoop, Spark, Kafka, NiFi, Hive, Trino, Grafana,  
-**Demo/Repo**: [GitHub Repository](#)  
-
-### 🔹 [AI-powered Text Generation](#)  
-**Description**: Developed a Generative AI model for creating contextual text using NLP and transformer models.  
-**Tech Stack**: Python, Hugging Face, TensorFlow  
 **Demo/Repo**: [GitHub Repository](#)  
 
 ---
