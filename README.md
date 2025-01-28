@@ -31,15 +31,50 @@
 ### Big Data Technologies
 
 <p align="left">
-  <img src="https://www.apache.org/logos/res/spark/spark_highres.png" alt="Apache Spark" width="200"/>
-  <img src="https://www.apache.org/logos/originals/kafka.svg" alt="Apache Kafka" width="200"/>
-  <img src="https://www.apache.org/logos/originals/airflow-1.svg" alt="Apache Airflow" width="200"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Apache Hive" width="200"/>
-  <img src="https://www.apache.org/logos/originals/hadoop.svg" alt="Apache Hadoop" width="200"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="75" height="75"/>
+  <img src="https://www.apache.org/logos/originals/hadoop.svg" alt="Apache Hadoop" width="150"/>
+  <img src="https://www.apache.org/logos/res/spark/spark_highres.png" alt="Apache Spark" width="100"/>
+  <img src="https://www.apache.org/logos/originals/kafka.svg" alt="Apache Kafka" width="100"/>
+  <img src="https://www.apache.org/logos/originals/nifi.svg" alt="Apache NiFi" width="75"/>
+  <img src="https://www.apache.org/logos/originals/hive.svg" alt="Apache Hive" width="60"/>
+  <img src="https://www.apache.org/logos/originals/airflow-1.svg" alt="Apache Airflow" width="100"/>
+  <img src="https://www.apache.org/logos/originals/hop.svg" alt="Apache Hop" width="60"/>
+  <img src="https://www.apache.org/logos/originals/superset-1.svg" alt="Apache Superset" width="150"/>
+  <img src="https://www.apache.org/logos/originals/zeppelin-1.svg" alt="Apache Zeppelin" width="75"/>
+  
+  
 </p>
+
+### Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" width="60"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" width="60"/>
+  
+  
+</p>
+
+### DevOps
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" alt="Gitlab" width="60"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" width="75"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" width="60"/>
+</p>
+
+
+### Others
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" width="60"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="60"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" width="60"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" width="60"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VSCode" width="60"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" width="60"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" width="60"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="JupiterNotebook" width="60"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sbt.png" alt="sbt" width="60"/> 
+</p>
+
 
 ## 📫 How to reach me
 
@@ -54,13 +89,11 @@
 
 
 
-
 ## 📊 GitHub Stats  
 
 ![Vu Huu Sy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vuhuusy&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vuhuusy&layout=compact&theme=radical)  
 
----
 
 ## 🌟 Featured Projects  
 
@@ -73,13 +106,6 @@
 **Description**: Developed a Generative AI model for creating contextual text using NLP and transformer models.  
 **Tech Stack**: Python, Hugging Face, TensorFlow  
 **Demo/Repo**: [GitHub Repository](#)  
-
----
-
-## 📫 Let's Connect!  
-- ✉️ [Email](mailto:vuhuusytft1@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vu-huu-sy/)  
-- 🌐 [Personal Website](#)  
 
 ---
 
