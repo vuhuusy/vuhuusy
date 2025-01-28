@@ -40,6 +40,7 @@
   <img src="https://www.apache.org/logos/originals/hop.svg" alt="Apache Hop" width="60"/>
   <img src="https://www.apache.org/logos/originals/superset-1.svg" alt="Apache Superset" width="150"/>
   <img src="https://www.apache.org/logos/originals/zeppelin-1.svg" alt="Apache Zeppelin" width="75"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Trino-logo-w-bk.svg" alt="Trino" width="100"/>
   
   
 </p>
@@ -97,9 +98,9 @@
 
 ## 🌟 Featured Projects  
 
-### 🔹 [Big Data Processing with Spark](#)  
+### 🔹 [Data Lake Platform](#)  
 **Description**: Built a real-time analytics platform leveraging Spark and Kafka to process millions of records per second.  
-**Tech Stack**: Spark, Kafka, Scala  
+**Tech Stack**: Hadoop, Spark, Kafka, NiFi, Hive, Trino, Grafana,  
 **Demo/Repo**: [GitHub Repository](#)  
 
 ### 🔹 [AI-powered Text Generation](#)  
