@@ -99,15 +99,11 @@
 
 ## 🌟 Featured Projects  
 
-### 🔹 [Lakehouse Platform](#)  
-**Description**: Developed a Generative AI model for creating contextual text using NLP and transformer models.  
-**Tech Stack**: Python, Hugging Face, TensorFlow  
-**Demo/Repo**: [GitHub Repository](#)  
+### 🔹 [Data Lakehouse Platform](https://github.com/vuhuusy/data-lakehouse-platform)  
+**Demo/Repo**: [GitHub Repository](https://github.com/vuhuusy/data-lakehouse-platform)  
 
-### 🔹 [Data Lake Platform](#)  
-**Description**: Built a real-time analytics platform leveraging Spark and Kafka to process millions of records per second.  
-**Tech Stack**: Hadoop, Spark, Kafka, NiFi, Hive, Trino, Grafana,  
-**Demo/Repo**: [GitHub Repository](#)  
+### 🔹 [Data Lake Platform](https://github.com/vuhuusy/data-lake-platform)  
+**Demo/Repo**: [GitHub Repository](https://github.com/vuhuusy/data-lake-platform)
 
 ---
 
