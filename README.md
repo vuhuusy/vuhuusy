@@ -14,7 +14,6 @@
 
 - 🧠 [**Databricks Certified Data Engineer Associate**](https://www.credly.com/badges/1234abcd-5678-efgh-ijkl-1234567890mn)  
   _Issued by Databricks · July 2025_  
-  Demonstrates proficiency in Spark-based ETL, Delta Lake, data ingestion, pipeline orchestration, and data governance on the Lakehouse Platform.
 
 
 ## 🔧 Skills  
