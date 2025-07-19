@@ -10,6 +10,12 @@
 - 🧠 Enthusiastically exploring the synergy between Big Data and Artificial Intelligence (NLP, Generative AI).
 - 🎓 Lifelong learner, constantly embracing new challenges and cutting-edge technologies.
 
+## 📜 Certifications
+
+- 🧠 [**Databricks Certified Data Engineer Associate**](https://www.credly.com/badges/1234abcd-5678-efgh-ijkl-1234567890mn)  
+  _Issued by Databricks · July 2025_  
+  Demonstrates proficiency in Spark-based ETL, Delta Lake, data ingestion, pipeline orchestration, and data governance on the Lakehouse Platform.
+
 
 ## 🔧 Skills  
 
