@@ -12,7 +12,7 @@
 
 ## 📜 Certifications
 
-- 🧠 [**Databricks Certified Data Engineer Associate**](https://www.credly.com/badges/1234abcd-5678-efgh-ijkl-1234567890mn)  
+- 🧠 [**Databricks Certified Data Engineer Associate**](https://pdf.credential.net/i2muvb1j_1752983128965.pdf)  
   _Issued by Databricks · July 2025_  
 
 - ☸️ **Certified Kubernetes Administrator (CKA)** _(in progress)_  
