@@ -4,6 +4,14 @@
 
 🚀 I'm currently working as a Big Data Engineer at Viettel Group, passionate about exploring the vast world of Big Data and the cutting-edge innovations of Generative AI. I graduated with a Very Good degree from Hanoi University of Science and Technology (HUST).
 
+## 📄 My Resume 
+
+<p align="left">
+  <a href="https://github.com/vuhuusy/vuhuusy/blob/main/CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-181717?style=for-the-badge&logo=github&logoColor=white" alt="CV on GitHub" />
+  </a>
+</p>
+
 
 ## 📌 About Me  
 - 💻 Skilled in data engineering, distributed systems, and processing large-scale datasets.
