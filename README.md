@@ -20,10 +20,15 @@
 
 ## 📜 Certifications
 
-- 🧠 [**Databricks Certified Data Engineer Associate**](https://pdf.credential.net/i2muvb1j_1752983128965.pdf)  
-  _Issued by Databricks · July 2025_  
+- [**Databricks Certified Data Engineer Associate**](https://pdf.credential.net/i2muvb1j_1752983128965.pdf) _(Issued by Databricks · July 2025)_
 
-- ☸️ **Certified Kubernetes Administrator (CKA)** _(in progress)_  
+- **Databricks Certified Associate Developer for Apache Spark** _(Issued by Databricks · November 2025)_
+  _(Exam Date: November 8, 2025)_
+
+- **Confluent Certified Administrator for Apache Kafka® (CCAAK)** _Issued by Confluent · December 2025_
+  _(Exam Date: December 20, 2025)_
+
+- ☸️ **Certified Kubernetes Administrator (CKA)**
   _Expected Q4 2025_  
 
 ## 🔧 Skills  
