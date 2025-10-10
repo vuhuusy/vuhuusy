@@ -2,9 +2,9 @@
 
 ## Hi there! 👋, I’m Sy!
 
-🚀 I'm currently working as a Big Data Engineer at Viettel Group, passionate about exploring the vast world of Big Data and the cutting-edge innovations of Generative AI. I graduated with a Very Good degree from Hanoi University of Science and Technology (HUST).
+I'm currently working as a Big Data Engineer at Viettel Group, passionate about exploring the vast world of Big Data and the cutting-edge innovations of Generative AI. I graduated with a Very Good degree from Hanoi University of Science and Technology (HUST).
 
-## 📄 My Resume / CV
+## My Resume / CV
 
 <p align="left">
   <a href="https://github.com/vuhuusy/vuhuusy/blob/main/Resume_Big_Data_Engineer_Viet.pdf" target="_blank">
@@ -13,12 +13,12 @@
 </p>
 
 
-## 📌 About Me  
-- 💻 Skilled in data engineering, distributed systems, and processing large-scale datasets.
-- 🧠 Enthusiastically exploring the synergy between Big Data and Artificial Intelligence (NLP, Generative AI).
-- 🎓 Lifelong learner, constantly embracing new challenges and cutting-edge technologies.
+## About Me  
+- Skilled in data engineering, distributed systems, and processing large-scale datasets.
+- Enthusiastically exploring the synergy between Big Data and Artificial Intelligence (NLP, Generative AI).
+- Lifelong learner, constantly embracing new challenges and cutting-edge technologies.
 
-## 📜 Certifications
+## Certifications
 
 - [**Databricks Certified Data Engineer Associate**](https://pdf.credential.net/i2muvb1j_1752983128965.pdf) _(Issued by Databricks · July 2025)_
 
@@ -28,9 +28,9 @@
 - **Confluent Certified Administrator for Apache Kafka® (CCAAK)** _(Issued by Confluent · December 2025)_
   _(Exam Date: December 20, 2025)_
 
-- ☸️ **Certified Kubernetes Administrator (CKA)** _(Expected Q4 2025)_  
+- **Certified Kubernetes Administrator (CKA)** _(Expected Q4 2025)_  
 
-## 🔧 Skills  
+## Skills  
 
 ### Programming Languages
 <p align="left">
@@ -97,7 +97,7 @@
 </p>
 
 
-## 📫 How to reach me
+## How to reach me
 
 <p align="left">
   <a href="mailto:syvh.de@gmail.com" target="_blank">
@@ -110,13 +110,13 @@
 
 
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 ![Vu Huu Sy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vuhuusy&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vuhuusy&layout=compact&theme=radical)  
 
 
-## 🌟 Featured Projects  
+## Featured Projects  
 
 ### 🔹 [Data Lakehouse Platform](https://github.com/vuhuusy/data-lakehouse-platform)  
 **Demo/Repo**: [GitHub Repository](https://github.com/vuhuusy/data-lakehouse-platform)  
@@ -126,5 +126,5 @@
 
 ---
 
-📖 *"The intersection of data and AI is where innovation happens."*  
-Feel free to explore my projects and connect with me to discuss ideas or opportunities! 🚀  
+*"The intersection of data and AI is where innovation happens."*  
+Feel free to explore my projects and connect with me to discuss ideas or opportunities!
