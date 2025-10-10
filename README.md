@@ -25,11 +25,10 @@
 - **Databricks Certified Associate Developer for Apache Spark** _(Issued by Databricks · November 2025)_
   _(Exam Date: November 8, 2025)_
 
-- **Confluent Certified Administrator for Apache Kafka® (CCAAK)** _Issued by Confluent · December 2025_
+- **Confluent Certified Administrator for Apache Kafka® (CCAAK)** _(Issued by Confluent · December 2025)_
   _(Exam Date: December 20, 2025)_
 
-- ☸️ **Certified Kubernetes Administrator (CKA)**
-  _Expected Q4 2025_  
+- ☸️ **Certified Kubernetes Administrator (CKA)** _(Expected Q4 2025)_  
 
 ## 🔧 Skills  
 
