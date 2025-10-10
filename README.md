@@ -1,9 +1,13 @@
 
 
-## Hi there! 👋, I’m Sy!
+## Hi there! 👋, I’m Sy Vu!
 
-I'm currently working as a Big Data Engineer at Viettel Group, passionate about exploring the vast world of Big Data and the cutting-edge innovations of Generative AI. I graduated with a Very Good degree from Hanoi University of Science and Technology (HUST).
+- Data Engineer at Viettel Group. 
 
+- Graduated with a Very Good degree from HUST. 
+
+- Skilled in data engineering, distributed systems, and large-scale data processing.
+  
 ## My Resume / CV
 
 <p align="left">
@@ -11,12 +15,6 @@ I'm currently working as a Big Data Engineer at Viettel Group, passionate about 
     <img src="https://img.shields.io/badge/View%20My%20CV-181717?style=for-the-badge&logo=github&logoColor=white" alt="CV on GitHub" />
   </a>
 </p>
-
-
-## About Me  
-- Skilled in data engineering, distributed systems, and processing large-scale datasets.
-- Enthusiastically exploring the synergy between Big Data and Artificial Intelligence (NLP, Generative AI).
-- Lifelong learner, constantly embracing new challenges and cutting-edge technologies.
 
 ## Certifications
 
