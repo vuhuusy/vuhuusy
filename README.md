@@ -18,7 +18,7 @@
 
 ## Certifications
 
-- [**Databricks Certified Data Engineer Associate**](https://pdf.credential.net/i2muvb1j_1752983128965.pdf) _(Issued by Databricks · July 2025)_
+- [**Databricks Certified Data Engineer Associate**](https://credentials.databricks.com/0c4b2c99-7320-4344-8347-c5d48cc21292#acc.XMDlscKf) _(Issued by Databricks · July 2025)_
 
 - **Databricks Certified Associate Developer for Apache Spark** _(Issued by Databricks · November 2025)_
   _(Exam Date: November 8, 2025)_
