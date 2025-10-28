@@ -4,7 +4,7 @@
 
 - Data Engineer at Viettel Group. 
 
-- Graduated with a Very Good degree from HUST. 
+- Graduated with a Very Good (3.47/4.0) degree from HUST. 
 
 - Skilled in data engineering, distributed systems, and large-scale data processing.
   
