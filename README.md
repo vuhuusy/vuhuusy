@@ -2,11 +2,11 @@
 
 ## Hi there! 👋, I’m Sy Vu!
 
-- Data Engineer at Viettel Group. 
+- Data Engineer at VIB. 
 
 - Graduated with a Very Good (3.47/4.0) degree from HUST. 
 
-- Skilled in data engineering, distributed systems, and large-scale data processing.
+- Skilled in data engineering, cloud computing, distributed systems, and large-scale data processing.
   
 ## My Resume / CV
 
@@ -18,15 +18,13 @@
 
 ## Certifications
 
-- [**Databricks Certified Data Engineer Associate**](https://credentials.databricks.com/0c4b2c99-7320-4344-8347-c5d48cc21292#acc.XMDlscKf) _(Issued by Databricks · July 2025)_
-
 - [**Databricks Certified Associate Developer for Apache Spark**](https://credentials.databricks.com/ba5e08a0-76fc-484f-9c5a-675245209fc7#acc.5K480Bq1) _(Issued by Databricks · November 2025)_
+
+- [**Databricks Certified Data Engineer Associate**](https://credentials.databricks.com/0c4b2c99-7320-4344-8347-c5d48cc21292#acc.XMDlscKf) _(Issued by Databricks · July 2025)_
 
 - **Confluent Certified Administrator for Apache Kafka® (CCAAK)** _(Issued by Confluent · December 2025)_
   _(Exam Date: December 20, 2025)_
-
-- **Certified Kubernetes Administrator (CKA)** _(Expected Q4 2025)_  
-
+  
 ## How to reach me
 
 <p align="left">
