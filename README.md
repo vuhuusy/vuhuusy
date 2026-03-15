@@ -18,6 +18,8 @@
 
 ## Certifications
 
+- - [**AWS Certified Data Engineer – Associate**](https://www.credly.com/badges/8e744aa8-db9b-4892-880b-31bad60b409d/linked_in?t=taj01p) _(Issued by Amazon Web Services · February 2025)_
+
 - [**Databricks Certified Associate Developer for Apache Spark**](https://credentials.databricks.com/ba5e08a0-76fc-484f-9c5a-675245209fc7#acc.5K480Bq1) _(Issued by Databricks · November 2025)_
 
 - [**Databricks Certified Data Engineer Associate**](https://credentials.databricks.com/0c4b2c99-7320-4344-8347-c5d48cc21292#acc.XMDlscKf) _(Issued by Databricks · July 2025)_
