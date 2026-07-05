@@ -2,7 +2,7 @@
 
 ## Hi there! 👋, I’m Sy Vu!
 
-- Data Engineer at VIB. 
+- Data Engineer at VietinBank. 
 
 - Graduated with a Very Good (3.47/4.0) degree from HUST. 
 
